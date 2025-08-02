@@ -1,0 +1,21 @@
+# Игнорируем исходники и конфиги, чтобы они не попали в npm пакет
+src/
+projects/
+e2e/
+karma.conf.js
+tsconfig*.json
+.angular.json
+.gitignore
+.editorconfig
+.prettierrc
+.vscode/
+README.md
+package-lock.json
+tslint.json
+*.log
+
+.all-contributorsrc
+.travis.yml
+angular.json
+commitlint.config.js
+eslint.config.js
