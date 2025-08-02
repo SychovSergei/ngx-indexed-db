@@ -4,6 +4,9 @@
   "files": [
     "dist/ngx-indexed-db/**/*"
   ],
+  "main": "dist/ngx-indexed-db/fesm2022/ngx-indexed-db.mjs",
+  "module": "dist/ngx-indexed-db/fesm2022/ngx-indexed-db.mjs",
+  "typings": "dist/ngx-indexed-db/index.d.ts",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
